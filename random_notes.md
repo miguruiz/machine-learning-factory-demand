@@ -1,4 +1,7 @@
 
+<div  id='write'  class = 'is-node'><p><span>DATASETS:</span></p><p><span> </span></p><p><a href='https://www.kdnuggets.com/datasets/index.html' target='_blank' class='url'>https://www.kdnuggets.com/datasets/index.html</a></p><p><span> </span></p><p><a href='https://fred.stlouisfed.org/' target='_blank' class='url'>https://fred.stlouisfed.org/</a></p><p><span> </span></p><p><a href='https://www.dataquest.io/blog/free-datasets-for-projects/' target='_blank' class='url'>https://www.dataquest.io/blog/free-datasets-for-projects/</a></p><p><span> </span></p><p><a href='https://aws.amazon.com/es/datasets/google-books-ngrams/' target='_blank' class='url'>https://aws.amazon.com/es/datasets/google-books-ngrams/</a></p><p><span> </span></p><p><a href='https://cloud.google.com/bigquery/public-data/' target='_blank' class='url'>https://cloud.google.com/bigquery/public-data/</a></p></div>
+<p><strong><br /></strong></p>
+<p><strong><br /></strong></p>
 <p><strong>Google data set search:&nbsp;<a href="https://toolbox.google.com/datasetsearch">https://toolbox.google.com/datasetsearch</a><br /></strong></p>
 <p><strong><br /></strong></p>
 <p><strong>Links to various data sets:</strong></p>
