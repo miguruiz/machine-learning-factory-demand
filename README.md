@@ -42,6 +42,8 @@ Project structure
     ├── d05_reporting             <- Scripts to produce reporting tables
     │
     └── d06_visualisation         <- Scripts to create frequently used plots
+    │
+    │   d06_test                  <- Scripts for testing
 
  *https://bit.ly/2Vq4VwA
 ```
