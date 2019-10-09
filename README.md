@@ -47,7 +47,7 @@ Project structure
 ```
 Naming conventions
 ---
-Naming convention is date YYYYMMDD (for ordering),`-` description, e.g.`20190601-initial-data-exploration`.
+Naming convention is date YYYYMMDD (for ordering),`-` description, e.g.`190601-initial-data-exploration`.
 
 Collaborators
 ---
