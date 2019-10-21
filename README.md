@@ -1,4 +1,4 @@
-# factory-demand-prediction
+# Predicting factory demand
 
 Overview
 ---
@@ -56,5 +56,3 @@ Collaborators
 
  - Illán Lois Bermejo
  - Miguel Ruiz Nogues
-
-test
