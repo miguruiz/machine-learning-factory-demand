@@ -12,6 +12,14 @@
 
 
 
+**Lista general de modelos**
+
+ https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/ 
+
+
+
+
+
 **Exponential smoothing**
 
  https://en.wikipedia.org/wiki/Exponential_smoothing 
