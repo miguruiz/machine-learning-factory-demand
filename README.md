@@ -55,5 +55,5 @@ Collaborators
 ---
 
  - Illán Lois Bermejo
- - Miguel Ruiz Nogues
+ - Miguel Ruiz Nogués
 
