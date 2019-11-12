@@ -1,3 +1,5 @@
 # Ignore folder data/01_raw, where the 
 /data/01_raw
 
+# Ignore folder data/02_intermediate, where the 
+/data/02_intermediate
