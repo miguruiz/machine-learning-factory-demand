@@ -1,6 +1,7 @@
 # Predicting the demand of a bakery
 
 **Important Note:** downloading the project may take time due to the large files.
+
 Overview
 ---
 The following project consists in forecasting the orders of a product that the stores of a bakery chain order to the bakery factory.
